@@ -1,5 +1,4 @@
 # Nicholas Moreland
-# 1001886051
 
 from sklearn.svm import LinearSVC
 

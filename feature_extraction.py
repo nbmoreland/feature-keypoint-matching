@@ -1,5 +1,4 @@
 # Nicholas Moreland
-# 1001886051
 
 from skimage.feature import SIFT
 from skimage.color import rgb2gray
